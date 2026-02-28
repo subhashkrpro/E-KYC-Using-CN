@@ -8,5 +8,6 @@ dependencies = [
     "deepface>=0.0.98",
     "matplotlib>=3.10.8",
     "opencv-python>=4.13.0.92",
+    "pytesseract>=0.3.13",
     "tf-keras>=2.20.1",
 ]
